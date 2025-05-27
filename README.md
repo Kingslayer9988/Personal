@@ -78,7 +78,7 @@ Make it sound professional but personal, and highlight my relevant experience.
 
 ---
 
-![Professional Photo](https://raw.githubusercontent.com/Kingslayer9988/Personal/refs/heads/main/Screenshot_AI.png "Screenshot placeholder: Example AI conversation")
+![Professional Photo](https://raw.githubusercontent.com/Kingslayer9988/Personal/refs/heads/main/Screenshot_AI.png "Example AI conversation")
 
 ---
 
@@ -100,7 +100,10 @@ Make it sound professional but personal, and highlight my relevant experience.
 5. **Upload** both CV.pdf + Motivationsschreiben.pdf the online form
 6. **Complete** 
 
-*[Screenshot placeholder: Online application form example]*
+---
+
+### **💻 Example Form Upload .pfd where Red Circels are**
+![Professional Photo](https://raw.githubusercontent.com/Kingslayer9988/Personal/refs/heads/main/Screenshot_Form.png "Example Online Form")
 
 ---
 
@@ -109,15 +112,6 @@ Make it sound professional but personal, and highlight my relevant experience.
 ### **🔧 Tools for PDF Conversion:**
 - **Online:** SmallPDF, ILovePDF, PDF24
 - **Offline:** LibreOffice, Microsoft Office, PDFCreator
-
----
-
-## 📊 **Track Your Applications**
-
-| Date | Company | Position | Portal Used | Status | Response |
-|------|---------|----------|-------------|--------|----------|
-| | | | | | |
-| | | | | | |
 
 ---
 
@@ -130,16 +124,9 @@ Make it sound professional but personal, and highlight my relevant experience.
 
 ---
 
-
 ## 🌟 **Success Stories**
 
 *[Placeholder for success screenshots and testimonials]*
-
----
-
-**Good luck with your job search, Alvin! 🍀**
-
-*This method works worldwide - I use it myself and it's highly effective! 💪*
 
 ---
 
@@ -153,4 +140,3 @@ Make it sound professional but personal, and highlight my relevant experience.
 ---
 
 *📅 Last Updated: May 2025*  
-*🔄 Guide Version: 2.0*  
