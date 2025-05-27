@@ -76,8 +76,9 @@ Please write me a professional application email and translate it to German.
 Make it sound professional but personal, and highlight my relevant experience.
 ```
 
-*[[Screenshot placeholder: Example AI conversation](https://raw.githubusercontent.com/Kingslayer9988/Personal/refs/heads/main/Screenshot_AI.png)]*
+---
 
+![Professional Photo](https://raw.githubusercontent.com/Kingslayer9988/Personal/refs/heads/main/Screenshot_AI.png "Screenshot placeholder: Example AI conversation")
 ---
 
 ## 📮 **Sending Your Application**
