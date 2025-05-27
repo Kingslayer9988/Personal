@@ -8,24 +8,11 @@
 
 Sorry, I'm switching jobs myself at the moment and have a lot to handle right now. Here's a complete guide to help you with job applications in Austria, especially for **big agricultural companies** in and around **Vienna**! 🌾
 
-This guide works pretty much **worldwide** - trust me, this is exactly how I do it myself! 💪
-
----
-
-## 📋 **Table of Contents**
-- [🎯 Quick Start Guide](#-quick-start-guide)
-- [🔍 Top Austrian Job Portals](#-top-austrian-job-portals)
-- [🤖 AI Tools for Applications](#-ai-tools-for-applications)
-- [📧 Application Process](#-application-process)
-- [💡 Pro Tips](#-pro-tips)
-
----
 
 ## 🎯 **Quick Start Guide**
 
 ### **Step 1: Get Your CV Ready** 📄
-✅ I've provided you with a CV - read through everything, translate it, and fix any "AI-mistakes"  
-✅ Use this CV for applications to big agricultural companies in and around Vienna
+✅ I've provided you with a CV - read through everything, translate it, and fix any "AI-mistakes"
 
 ### **Step 2: Find Jobs** 🔍
 Use the job portals listed below or search on Google (make sure to use your Austrian IP/location for better local results)
@@ -35,16 +22,7 @@ Use the job portals listed below or search on Google (make sure to use your Aust
 - Google the company name + go to their official website
 - Read through their website thoroughly
 
-### **Step 4: Use AI for Applications** 🤖
-Upload all necessary information to your favorite AI tool and get a professional application written!
-
----
-
-## 🔍 **Top Austrian Job Portals**
-
-*Ranked by monthly users - Updated May 2025*
-
-### 🥇 **Government & Major Portals**
+### 🥇 **Government &  🔍 Top Austrian Job Portals**
 
 | **Portal** | **Monthly Visitors** | **Best For** | **Quick Link** |
 |------------|---------------------|--------------|----------------|
@@ -57,27 +35,14 @@ Upload all necessary information to your favorite AI tool and get a professional
 
 ### 🎯 **Specialized Portals**
 
-#### **🌾 Agricultural Jobs**
+#### **🌾 Agricultural Jobs Search Link**
 - **at.trabajo.org** - [Agricultural Jobs Vienna](https://at.trabajo.org/stellenangebote-landwirtschaft/Wien)
-- **agrarjobs.at** - Specialized agricultural portal
 
 #### **🎓 Student & Entry-Level**
 - **StudentJob.at** - [🔗 Visit](https://www.studentjob.at/) - Part-time, internships
 - **unijobs.at** - [🔗 Visit](https://www.unijobs.at/) - University graduates
 
-#### **🏨 Hospitality & Tourism**
-- **hoteljob-oesterreich.at** - Hotel & tourism
-- **gastrojobs.com** - Restaurant & catering
-
-#### **💻 Tech & IT**
-- **technikerjobs.at** - Technical professions
-- **ITjobs.at** - IT specialists
-
----
-
 ## 🤖 **AI Tools for Applications**
-
-### **🔥 Recommended AI Assistants**
 
 | **AI Tool** | **Best For** | **Access** |
 |-------------|--------------|------------|
@@ -86,9 +51,8 @@ Upload all necessary information to your favorite AI tool and get a professional
 | **⚡ Grok** | Twitter integration, real-time info | [🔗 Grok (X Premium)](https://grok.x.ai/) |
 | **🆓 Gemini** | Google integration, free tier | [🔗 Google Gemini](https://gemini.google.com/) |
 
----
-
-## 📧 **Application Process**
+## **Step 4: Use AI for Applications** 🤖
+Upload all necessary information to your favorite AI tool and get a professional application written!
 
 ### **📤 What to Upload to AI:**
 
@@ -131,27 +95,14 @@ Make it sound professional but personal, and highlight my relevant experience.
 3. **Save** as `MOTIVATIONSSCHREIBEN_[COMPANY].docx`
    - Example: `Motivationsschreiben_KenGen.docx`
 4. **Convert** to PDF for professional look
-5. **Upload** both CV.pdf + Motivationsschreiben.pdf
-6. **Complete** the online form
+5. **Upload** both CV.pdf + Motivationsschreiben.pdf the online form
+6. **Complete** 
 
 *[Screenshot placeholder: Online application form example]*
 
 ---
 
 ## 💡 **Pro Tips**
-
-### **🎯 For Maximum Success:**
-- ✅ **Always customize** each application for the specific company
-- ✅ **Research** the company thoroughly before applying
-- ✅ **Save** all AI-generated applications for reference
-- ✅ **Track** your applications and responses
-- ✅ **Follow up** after 1-2 weeks if no response
-
-### **📈 Austrian Job Market Stats (2025):**
-- **80,000+** open positions currently available
-- **8 out of 10** companies struggling with staff shortages
-- **66 professions** listed as shortage occupations
-- **Agricultural sector** actively recruiting
 
 ### **🔧 Tools for PDF Conversion:**
 - **Online:** SmallPDF, ILovePDF, PDF24
@@ -177,19 +128,6 @@ Make it sound professional but personal, and highlight my relevant experience.
 
 ---
 
-## 📞 **Emergency Contacts & Resources**
-
-### **🆘 AMS Support:**
-- **Website:** [AMS.at](https://www.ams.at/)
-- **Phone:** 050 904 540
-- **Vienna Office:** Multiple locations
-
-### **📚 Additional Resources:**
-- **Austrian Work Permit Info:** [Migration.gv.at](https://www.migration.gv.at/)
-- **Salary Information:** [Gehaltskompass.at](https://www.gehaltskompass.at/)
-- **German Language Courses:** [Deutsch.info](https://deutsch.info/)
-
----
 
 ## 🌟 **Success Stories**
 
@@ -203,6 +141,14 @@ Make it sound professional but personal, and highlight my relevant experience.
 
 ---
 
+## 📋 **Table of Contents**
+- [🎯 Quick Start Guide](#-quick-start-guide)
+- [🔍 Top Austrian Job Portals](#-top-austrian-job-portals)
+- [🤖 AI Tools for Applications](#-ai-tools-for-applications)
+- [📧 Application Process](#-application-process)
+- [💡 Pro Tips](#-pro-tips)
+
+---
+
 *📅 Last Updated: May 2025*  
 *🔄 Guide Version: 2.0*  
-*👨‍💻 Created by: BGO Montage & Logistik Team*
